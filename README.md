@@ -15,3 +15,6 @@ this is done by callibrate_cameras.py and perspective_transform.py
 Next we perform edge filtering and to get a better understanding of the lane markers we also augment the previous filtered result with an HLS filter.This is implemented in combined_thresh.py
 The modules responsible for performing line detection are implemented in lanefit.py
 Finally for visualization purposes we provide two files one for still image and one for video these are implemented in generate_examples.py and line_fit_video.py
+These algorithms were then tested on two videos challenge_video and project_video.
+The result can be viewed in challenge_video_result and project_video_result.
+Special Thanks to Udacity for introducing me to these wonderful concepts.
