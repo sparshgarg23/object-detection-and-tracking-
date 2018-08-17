@@ -18,3 +18,5 @@ Finally for visualization purposes we provide two files one for still image and 
 These algorithms were then tested on two videos challenge_video and project_video.
 The result can be viewed in challenge_video_result and project_video_result.
 Special Thanks to Udacity for introducing me to these wonderful concepts.
+Tracking parts some modules like finding correspondences between detected box and predicted box were implemented from scratch
+In Lane Finding module,line_fit and lanefit were implemented from scratch
